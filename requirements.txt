@@ -1,0 +1,9 @@
+numpy
+scipy
+quantities
+PyWavelets
+neo
+matplotlib
+jupyter
+ipykernel
+

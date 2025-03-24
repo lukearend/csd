@@ -1,7 +1,7 @@
 import numpy as np
 import scipy
 import pywt # github.com/PyWavelets/pywt
-import icsd # github.com/espenhgn/iCSD
+import csd.icsd # github.com/espenhgn/iCSD
 import quantities # github.com/python-quantities/python-quantities
 
 

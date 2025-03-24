@@ -1,24 +1,25 @@
 # csd
 compute current-source density transform
 
-# install
-Make environment
-python3 -m venv env
+# how to install
+### make environment
+`python3 -m venv env`
 
-Activate environment
-source env/bin/activate
+### activate environment
+`source env/bin/activate`
 
-Update pip
-pip install --upgrade pip
+### optional: update pip
+`pip install --upgrade pip`
 
-Install requirements
-pip install -r requirements.txt
+### install requirements
+`pip install -r requirements.txt`
 
-Start notebook server
-jupyter notebook
+### start notebook server
+`jupyter notebook`
 
-# non-pip dependency
-icsd.py -> github.com/espenhgn/iCSD/icsd.py
+# how to use
+call functions in csd/analysis.py
 
-# use
-Use functions in csd.py
+# other
+### non-pip dependency
+2025/03/24: icsd.py copied from github.com/espenhgn/iCSD/icsd.py

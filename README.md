@@ -17,3 +17,8 @@ pip install -r requirements.txt
 Start notebook server
 jupyter notebook
 
+# non-pip dependency
+icsd.py -> github.com/espenhgn/iCSD/icsd.py
+
+# use
+Use functions in csd.py
